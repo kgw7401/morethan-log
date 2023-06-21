@@ -11,7 +11,10 @@ const CONFIG = {
     instagram: "",
   },
   projects: [
-
+    {
+      name: `omolnaeal`,
+      href: "https://omolnaeal.vercel.app",
+    },
   ],
   // blog setting (required)
   blog: {
